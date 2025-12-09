@@ -108,7 +108,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CmsAppTikTok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9e2494ca3d78641e6802cb6dd4075f1d330b3f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CmsAppTikTok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CmsAppTikTok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
